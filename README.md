@@ -16,7 +16,7 @@ Dataset Contains 14 Features or Attributes to understand the dataset more clearl
       0 = normal 
       1 = having ST-T wave abnormality 
       2 = left ventricular hyperthrophy
-8:  thalach: maximum heart rate achieved.
+8.  thalach: maximum heart rate achieved.
 9.  exang: exercise induced angina (1 = yes and 0 = no)
 10. Oldpeak : ST depression induced by exercise relative to rest: 
 11. Slope : the slope of the peak exercise ST segment
