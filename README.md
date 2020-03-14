@@ -1,4 +1,4 @@
-# Heart-Disease-Prediction
+# Heart-Disease-Prediction Using 3 Different Models
 Analyzing the pre-processed cleveland dataset to predict the whether the person has a Heart Disease or Not (ignoring the severity)
 
 Dataset Contains 14 Features or Attributes to understand the dataset more clearly.
